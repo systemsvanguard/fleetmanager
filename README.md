@@ -1,68 +1,51 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Fleet Manager
+A simple **API and CRUD** demonstration for a vehicle fleet management system. A work in progress. Built with React.js, React Router 4, Chakra CSS, FontAwesome 5, lightbox, Chart.js, API, and Bootstrap 4.
 
-## Available Scripts
+Live **Site Demo** ~ [BaaS Dashboard](https://baasashboard.herokuapp.com/) 
 
-In the project directory, you can run:
+![BaaS Dashboard 1](http://ryanhunter.ca/images/portfolio/baas_dashboard01.png)
 
-### `npm start`
+![BaaS Dashboard 2](http://ryanhunter.ca/images/portfolio/baas_dashboard02.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Steps to Install
+- git clone https://github.com/systemsvanguard/fleetmanager.git  
+- cd fleetmanager
+- ensure your have Node & NPM pre-installed. Run commands 'node -v && npm -v'.
+- npm start
+- Runs on port 3000 --> http://localhost:3000/
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
+- React.js
+- React Router 4
+- Axios and API consumption
+- Internationalization
+- Image Lightbox demo
+- Chakra CSS framework 
+- Bootstrap 4 CSS framework 
+- FontAwesome 5 icons
+- Google Fonts
+- Filler text from https://pirateipsum.me 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## License
+This project is licensed under the terms of the **MIT** license.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Main Files & Directories
+![Main Top Level Files & Directories](http://ryanhunter.ca/images/portfolio/baas_projectfiles.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Screenshot 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![BaaS Dashboard 1](http://ryanhunter.ca/images/portfolio/baas_dashboard01.png)
 
-## Learn More
+![BaaS Dashboard 2](http://ryanhunter.ca/images/portfolio/baas_dashboard02.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![BaaS Project Files](http://ryanhunter.ca/images/portfolio/baas_projectfiles.png)
+	
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
